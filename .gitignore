@@ -262,4 +262,8 @@ __pycache__/
 *.pyc
 /Server/DesenvolveServer/lib/angular
 /Server/DesenvolveServer/lib/angular/massautocomplete.min.js
-appsettings.json
+# Não ignore appsettings.json
+!appsettings.json
+
+# Não ignore launchSettings.json
+!launchSettings.json
